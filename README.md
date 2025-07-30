@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/FarhiaAfroj/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/FarhiaAfroj/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
@@ -50,8 +52,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
