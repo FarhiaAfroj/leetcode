@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/FarhiaAfroj/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/FarhiaAfroj/leetcode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/FarhiaAfroj/leetcode/tree/master/0027-remove-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
