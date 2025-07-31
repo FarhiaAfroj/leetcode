@@ -16,7 +16,3 @@ class Solution:
         
         return max_len
 
-# Example usage:
-if __name__ == "__main__":
-    print(Solution().longestSubarray([1, 2, 3, 3, 2, 2]))  # Output: 2
-    print(Solution().longestSubarray([1, 2, 3, 4]))        # Output: 1
