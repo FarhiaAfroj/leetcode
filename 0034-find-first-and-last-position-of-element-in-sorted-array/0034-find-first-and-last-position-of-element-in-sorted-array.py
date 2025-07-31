@@ -29,4 +29,4 @@ class Solution:
             return index
         
         return [findLeft(nums, target), findRight(nums, target)]
-        0
+        return 0
