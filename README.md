@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/FarhiaAfroj/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/FarhiaAfroj/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/FarhiaAfroj/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/FarhiaAfroj/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/FarhiaAfroj/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
 | [2610-closest-prime-numbers-in-range](https://github.com/FarhiaAfroj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/FarhiaAfroj/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -172,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/FarhiaAfroj/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
