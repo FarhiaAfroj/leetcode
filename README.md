@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/FarhiaAfroj/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/FarhiaAfroj/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/FarhiaAfroj/leetcode/tree/master/0071-simplify-path) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
