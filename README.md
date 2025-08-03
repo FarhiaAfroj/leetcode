@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0088-merge-sorted-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3483-alternating-groups-ii) |
 ## String
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/FarhiaAfroj/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/FarhiaAfroj/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
