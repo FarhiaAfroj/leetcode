@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FarhiaAfroj/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
 |  |
 | ------- |
@@ -164,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/FarhiaAfroj/leetcode/tree/master/0036-valid-sudoku) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FarhiaAfroj/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
 |  |
 | ------- |
