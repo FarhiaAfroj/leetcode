@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/FarhiaAfroj/leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
