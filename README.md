@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/FarhiaAfroj/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2610-closest-prime-numbers-in-range](https://github.com/FarhiaAfroj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
