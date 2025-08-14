@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/FarhiaAfroj/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/FarhiaAfroj/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
