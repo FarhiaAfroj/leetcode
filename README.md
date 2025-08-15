@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/FarhiaAfroj/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/FarhiaAfroj/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/FarhiaAfroj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FarhiaAfroj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
