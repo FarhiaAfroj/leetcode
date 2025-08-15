@@ -384,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/FarhiaAfroj/leetcode/tree/master/0506-relative-ranks) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/FarhiaAfroj/leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
