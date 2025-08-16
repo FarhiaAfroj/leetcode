@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/FarhiaAfroj/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
