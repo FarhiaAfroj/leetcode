@@ -6,7 +6,7 @@ class KthLargest:
         self.k = k
         self.min_heap = nums[:]
         heapq.heapify(self.min_heap)
-        # Trim heap to have at most k elements:
+       
         while len(self.min_heap) > k:
             heapq.heappop(self.min_heap)
 
