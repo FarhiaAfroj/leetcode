@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/FarhiaAfroj/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/FarhiaAfroj/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/FarhiaAfroj/leetcode/tree/master/0412-fizz-buzz) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/FarhiaAfroj/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/FarhiaAfroj/leetcode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/FarhiaAfroj/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/FarhiaAfroj/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/FarhiaAfroj/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
