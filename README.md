@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/FarhiaAfroj/leetcode/tree/master/0228-summary-ranges) |
 | [0393-utf-8-validation](https://github.com/FarhiaAfroj/leetcode/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/FarhiaAfroj/leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/FarhiaAfroj/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/FarhiaAfroj/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/FarhiaAfroj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
+| [0396-rotate-function](https://github.com/FarhiaAfroj/leetcode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/FarhiaAfroj/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/FarhiaAfroj/leetcode/tree/master/0415-add-strings) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FarhiaAfroj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/FarhiaAfroj/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/FarhiaAfroj/leetcode/tree/master/0396-rotate-function) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
