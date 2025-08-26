@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/FarhiaAfroj/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/FarhiaAfroj/leetcode/tree/master/0412-fizz-buzz) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/FarhiaAfroj/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/FarhiaAfroj/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/FarhiaAfroj/leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
