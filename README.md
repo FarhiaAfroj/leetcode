@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/FarhiaAfroj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/FarhiaAfroj/leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/FarhiaAfroj/leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/FarhiaAfroj/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/FarhiaAfroj/leetcode/tree/master/0415-add-strings) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/FarhiaAfroj/leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/FarhiaAfroj/leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhiaAfroj/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
@@ -506,4 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/FarhiaAfroj/leetcode/tree/master/0149-max-points-on-a-line) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/FarhiaAfroj/leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/FarhiaAfroj/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
