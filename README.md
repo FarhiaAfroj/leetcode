@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/FarhiaAfroj/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/FarhiaAfroj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/FarhiaAfroj/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0206-reverse-linked-list) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/FarhiaAfroj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0392-is-subsequence) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/FarhiaAfroj/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/FarhiaAfroj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FarhiaAfroj/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FarhiaAfroj/leetcode/tree/master/0242-valid-anagram) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/FarhiaAfroj/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/FarhiaAfroj/leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
@@ -462,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FarhiaAfroj/leetcode/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
