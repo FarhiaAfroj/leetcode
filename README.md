@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/FarhiaAfroj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/FarhiaAfroj/leetcode/tree/master/0228-summary-ranges) |
+| [0393-utf-8-validation](https://github.com/FarhiaAfroj/leetcode/tree/master/0393-utf-8-validation) |
 | [0414-third-maximum-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/FarhiaAfroj/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/FarhiaAfroj/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/FarhiaAfroj/leetcode/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/FarhiaAfroj/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
