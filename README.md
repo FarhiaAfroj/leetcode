@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/FarhiaAfroj/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/FarhiaAfroj/leetcode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/FarhiaAfroj/leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0392-is-subsequence) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/FarhiaAfroj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/FarhiaAfroj/leetcode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/FarhiaAfroj/leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FarhiaAfroj/leetcode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/FarhiaAfroj/leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
