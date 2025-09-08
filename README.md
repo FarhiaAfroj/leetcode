@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/FarhiaAfroj/leetcode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0393-utf-8-validation](https://github.com/FarhiaAfroj/leetcode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/FarhiaAfroj/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/FarhiaAfroj/leetcode/tree/master/0399-evaluate-division) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/FarhiaAfroj/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0400-nth-digit](https://github.com/FarhiaAfroj/leetcode/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/FarhiaAfroj/leetcode/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Tree
 |  |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -554,9 +558,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhiaAfroj/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhiaAfroj/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
