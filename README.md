@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0697-degree-of-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/FarhiaAfroj/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/FarhiaAfroj/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/FarhiaAfroj/leetcode/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/FarhiaAfroj/leetcode/tree/master/0696-count-binary-substrings) |
+| [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/FarhiaAfroj/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0697-degree-of-an-array) |
+| [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
