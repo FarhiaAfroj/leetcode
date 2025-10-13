@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0838-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/FarhiaAfroj/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
