@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0414-third-maximum-number) |
 | [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/FarhiaAfroj/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhiaAfroj/leetcode/tree/master/0500-keyboard-row) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/FarhiaAfroj/leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/FarhiaAfroj/leetcode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/FarhiaAfroj/leetcode/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0494-target-sum) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/FarhiaAfroj/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
