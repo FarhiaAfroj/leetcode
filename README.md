@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/FarhiaAfroj/leetcode/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhiaAfroj/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0414-third-maximum-number) |
+| [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/FarhiaAfroj/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhiaAfroj/leetcode/tree/master/0500-keyboard-row) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/FarhiaAfroj/leetcode/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
+| [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/FarhiaAfroj/leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FarhiaAfroj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/FarhiaAfroj/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/FarhiaAfroj/leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/FarhiaAfroj/leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhiaAfroj/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhiaAfroj/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/FarhiaAfroj/leetcode/tree/master/0575-distribute-candies) |
