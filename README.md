@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/FarhiaAfroj/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0414-third-maximum-number) |
 | [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/FarhiaAfroj/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhiaAfroj/leetcode/tree/master/0500-keyboard-row) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0400-nth-digit](https://github.com/FarhiaAfroj/leetcode/tree/master/0400-nth-digit) |
+| [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
 | [0755-reach-a-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/FarhiaAfroj/leetcode/tree/master/0169-majority-element) |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0148-sort-list) |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -593,13 +597,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhiaAfroj/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhiaAfroj/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
