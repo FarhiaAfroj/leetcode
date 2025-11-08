@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0330-patching-array) |
 | [0393-utf-8-validation](https://github.com/FarhiaAfroj/leetcode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/FarhiaAfroj/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/FarhiaAfroj/leetcode/tree/master/0399-evaluate-division) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FarhiaAfroj/leetcode/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0330-patching-array) |
 | [0397-integer-replacement](https://github.com/FarhiaAfroj/leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/FarhiaAfroj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/FarhiaAfroj/leetcode/tree/master/0409-longest-palindrome) |
