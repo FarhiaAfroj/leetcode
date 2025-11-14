@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/FarhiaAfroj/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0697-degree-of-an-array) |
+| [0699-falling-squares](https://github.com/FarhiaAfroj/leetcode/tree/master/0699-falling-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/FarhiaAfroj/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
@@ -671,11 +672,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhiaAfroj/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/FarhiaAfroj/leetcode/tree/master/0699-falling-squares) |
 ## Ordered Set
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/FarhiaAfroj/leetcode/tree/master/0699-falling-squares) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Prefix Sum
 |  |
