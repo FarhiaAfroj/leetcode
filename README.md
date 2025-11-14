@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FarhiaAfroj/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/FarhiaAfroj/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/FarhiaAfroj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/FarhiaAfroj/leetcode/tree/master/0682-baseball-game) |
 | [0750-contain-virus](https://github.com/FarhiaAfroj/leetcode/tree/master/0750-contain-virus) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Memoization
 |  |
 | ------- |
