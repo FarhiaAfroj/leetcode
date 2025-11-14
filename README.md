@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/FarhiaAfroj/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3483-alternating-groups-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/FarhiaAfroj/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/FarhiaAfroj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/FarhiaAfroj/leetcode/tree/master/0409-longest-palindrome) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/FarhiaAfroj/leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/FarhiaAfroj/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/FarhiaAfroj/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/FarhiaAfroj/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
