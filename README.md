@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/FarhiaAfroj/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/FarhiaAfroj/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/FarhiaAfroj/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/FarhiaAfroj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/FarhiaAfroj/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/FarhiaAfroj/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/FarhiaAfroj/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/FarhiaAfroj/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/FarhiaAfroj/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/FarhiaAfroj/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/FarhiaAfroj/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/FarhiaAfroj/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
