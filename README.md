@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/FarhiaAfroj/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/FarhiaAfroj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2610-closest-prime-numbers-in-range](https://github.com/FarhiaAfroj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/FarhiaAfroj/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/FarhiaAfroj/leetcode/tree/master/0682-baseball-game) |
 | [0750-contain-virus](https://github.com/FarhiaAfroj/leetcode/tree/master/0750-contain-virus) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/FarhiaAfroj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/FarhiaAfroj/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Memoization
 |  |
