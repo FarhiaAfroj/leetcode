@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/FarhiaAfroj/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/FarhiaAfroj/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/FarhiaAfroj/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/FarhiaAfroj/leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/FarhiaAfroj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/FarhiaAfroj/leetcode/tree/master/0409-longest-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/FarhiaAfroj/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sorting
 |  |
