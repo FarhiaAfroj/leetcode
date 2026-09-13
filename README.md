@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/FarhiaAfroj/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/FarhiaAfroj/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/FarhiaAfroj/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/FarhiaAfroj/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/FarhiaAfroj/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/FarhiaAfroj/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/FarhiaAfroj/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/FarhiaAfroj/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
