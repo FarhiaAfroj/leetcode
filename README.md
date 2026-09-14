@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/FarhiaAfroj/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
 | [0750-contain-virus](https://github.com/FarhiaAfroj/leetcode/tree/master/0750-contain-virus) |
+| [0766-toeplitz-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/FarhiaAfroj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0750-contain-virus](https://github.com/FarhiaAfroj/leetcode/tree/master/0750-contain-virus) |
+| [0766-toeplitz-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0766-toeplitz-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/FarhiaAfroj/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/FarhiaAfroj/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
