@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/FarhiaAfroj/leetcode/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/FarhiaAfroj/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0796-rotate-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
