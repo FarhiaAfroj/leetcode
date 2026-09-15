@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/FarhiaAfroj/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/FarhiaAfroj/leetcode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/FarhiaAfroj/leetcode/tree/master/0860-lemonade-change) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/FarhiaAfroj/leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/FarhiaAfroj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/FarhiaAfroj/leetcode/tree/master/0409-longest-palindrome) |
+| [0860-lemonade-change](https://github.com/FarhiaAfroj/leetcode/tree/master/0860-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/FarhiaAfroj/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
