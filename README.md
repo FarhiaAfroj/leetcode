@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/FarhiaAfroj/leetcode/tree/master/0750-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0792-binary-search) |
+| [0806-number-of-lines-to-write-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/FarhiaAfroj/leetcode/tree/master/0749-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/FarhiaAfroj/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
