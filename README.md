@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/FarhiaAfroj/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/FarhiaAfroj/leetcode/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/FarhiaAfroj/leetcode/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/FarhiaAfroj/leetcode/tree/master/0844-backspace-string-compare) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/FarhiaAfroj/leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/FarhiaAfroj/leetcode/tree/master/0844-backspace-string-compare) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/FarhiaAfroj/leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/FarhiaAfroj/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/FarhiaAfroj/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/FarhiaAfroj/leetcode/tree/master/0844-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/FarhiaAfroj/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/FarhiaAfroj/leetcode/tree/master/0682-baseball-game) |
 | [0750-contain-virus](https://github.com/FarhiaAfroj/leetcode/tree/master/0750-contain-virus) |
 | [0832-flipping-an-image](https://github.com/FarhiaAfroj/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/FarhiaAfroj/leetcode/tree/master/0844-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/FarhiaAfroj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/FarhiaAfroj/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
