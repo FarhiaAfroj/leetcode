@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0792-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/FarhiaAfroj/leetcode/tree/master/0812-largest-triangle-area) |
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0507-perfect-number) |
 | [0755-reach-a-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0755-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/FarhiaAfroj/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/FarhiaAfroj/leetcode/tree/master/0812-largest-triangle-area) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/FarhiaAfroj/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/FarhiaAfroj/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/FarhiaAfroj/leetcode/tree/master/0812-largest-triangle-area) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -753,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/FarhiaAfroj/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/FarhiaAfroj/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
