@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0755-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/FarhiaAfroj/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/FarhiaAfroj/leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/FarhiaAfroj/leetcode/tree/master/0836-rectangle-overlap) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/FarhiaAfroj/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/FarhiaAfroj/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/FarhiaAfroj/leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/FarhiaAfroj/leetcode/tree/master/0836-rectangle-overlap) |
 ## Reservoir Sampling
 |  |
 | ------- |
