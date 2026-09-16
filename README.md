@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/FarhiaAfroj/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/FarhiaAfroj/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/FarhiaAfroj/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/FarhiaAfroj/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
