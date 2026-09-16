@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0838-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/FarhiaAfroj/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/FarhiaAfroj/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/FarhiaAfroj/leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/FarhiaAfroj/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
