@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/FarhiaAfroj/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
