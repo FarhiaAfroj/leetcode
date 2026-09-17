@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0838-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/FarhiaAfroj/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/FarhiaAfroj/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/FarhiaAfroj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2610-closest-prime-numbers-in-range](https://github.com/FarhiaAfroj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
