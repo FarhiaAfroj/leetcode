@@ -725,12 +725,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/FarhiaAfroj/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/FarhiaAfroj/leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/FarhiaAfroj/leetcode/tree/master/0838-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/FarhiaAfroj/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/FarhiaAfroj/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/FarhiaAfroj/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhiaAfroj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/FarhiaAfroj/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/FarhiaAfroj/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/FarhiaAfroj/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
