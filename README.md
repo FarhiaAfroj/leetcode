@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/FarhiaAfroj/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/FarhiaAfroj/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/FarhiaAfroj/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/FarhiaAfroj/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/FarhiaAfroj/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/FarhiaAfroj/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/FarhiaAfroj/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/FarhiaAfroj/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/FarhiaAfroj/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/FarhiaAfroj/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/FarhiaAfroj/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Design
 |  |
 | ------- |
