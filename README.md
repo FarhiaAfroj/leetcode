@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/FarhiaAfroj/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/FarhiaAfroj/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/FarhiaAfroj/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/FarhiaAfroj/leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/FarhiaAfroj/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FarhiaAfroj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/FarhiaAfroj/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
