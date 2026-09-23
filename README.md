@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/FarhiaAfroj/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/FarhiaAfroj/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/FarhiaAfroj/leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/FarhiaAfroj/leetcode/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/FarhiaAfroj/leetcode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/FarhiaAfroj/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/FarhiaAfroj/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/FarhiaAfroj/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/FarhiaAfroj/leetcode/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/FarhiaAfroj/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/FarhiaAfroj/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/FarhiaAfroj/leetcode/tree/master/0231-power-of-two) |
