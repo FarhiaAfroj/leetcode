@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/FarhiaAfroj/leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/FarhiaAfroj/leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1009-complement-of-base-10-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
 |  |
