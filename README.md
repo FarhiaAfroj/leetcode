@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/FarhiaAfroj/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/FarhiaAfroj/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/FarhiaAfroj/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/FarhiaAfroj/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/FarhiaAfroj/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0750-contain-virus](https://github.com/FarhiaAfroj/leetcode/tree/master/0750-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/FarhiaAfroj/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/FarhiaAfroj/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/FarhiaAfroj/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
