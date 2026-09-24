@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/FarhiaAfroj/leetcode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/FarhiaAfroj/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/FarhiaAfroj/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/FarhiaAfroj/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/FarhiaAfroj/leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/FarhiaAfroj/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/FarhiaAfroj/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/FarhiaAfroj/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/FarhiaAfroj/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/FarhiaAfroj/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/FarhiaAfroj/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
