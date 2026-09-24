@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/FarhiaAfroj/leetcode/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/FarhiaAfroj/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/FarhiaAfroj/leetcode/tree/master/0999-available-captures-for-rook) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/FarhiaAfroj/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/FarhiaAfroj/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/FarhiaAfroj/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/FarhiaAfroj/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/FarhiaAfroj/leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/FarhiaAfroj/leetcode/tree/master/0999-available-captures-for-rook) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/FarhiaAfroj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/FarhiaAfroj/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
