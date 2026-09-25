@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/FarhiaAfroj/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/FarhiaAfroj/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/FarhiaAfroj/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/FarhiaAfroj/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/FarhiaAfroj/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
