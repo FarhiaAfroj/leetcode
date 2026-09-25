@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/FarhiaAfroj/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/FarhiaAfroj/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/FarhiaAfroj/leetcode/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/FarhiaAfroj/leetcode/tree/master/1046-last-stone-weight) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/FarhiaAfroj/leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/FarhiaAfroj/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/FarhiaAfroj/leetcode/tree/master/1046-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/FarhiaAfroj/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Database
