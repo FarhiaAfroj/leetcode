@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/FarhiaAfroj/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/FarhiaAfroj/leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/FarhiaAfroj/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/FarhiaAfroj/leetcode/tree/master/1025-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/FarhiaAfroj/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/FarhiaAfroj/leetcode/tree/master/1025-divisor-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sorting
@@ -961,4 +964,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/FarhiaAfroj/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/FarhiaAfroj/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/FarhiaAfroj/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
