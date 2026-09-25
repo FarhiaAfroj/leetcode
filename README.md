@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/FarhiaAfroj/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/FarhiaAfroj/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1030-matrix-cells-in-distance-order](https://github.com/FarhiaAfroj/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/FarhiaAfroj/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/FarhiaAfroj/leetcode/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/FarhiaAfroj/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/FarhiaAfroj/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/FarhiaAfroj/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1030-matrix-cells-in-distance-order](https://github.com/FarhiaAfroj/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/FarhiaAfroj/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/FarhiaAfroj/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/FarhiaAfroj/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/FarhiaAfroj/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/FarhiaAfroj/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/FarhiaAfroj/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/FarhiaAfroj/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/FarhiaAfroj/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/FarhiaAfroj/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/FarhiaAfroj/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/FarhiaAfroj/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Reservoir Sampling
 |  |
 | ------- |
