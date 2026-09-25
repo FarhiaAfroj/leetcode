@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/FarhiaAfroj/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/FarhiaAfroj/leetcode/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/FarhiaAfroj/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/FarhiaAfroj/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/FarhiaAfroj/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FarhiaAfroj/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/FarhiaAfroj/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/FarhiaAfroj/leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/FarhiaAfroj/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/FarhiaAfroj/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/FarhiaAfroj/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/FarhiaAfroj/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
 |  |
