@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/FarhiaAfroj/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/FarhiaAfroj/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1280-students-and-examinations](https://github.com/FarhiaAfroj/leetcode/tree/master/1280-students-and-examinations) |
 ## Hash Function
